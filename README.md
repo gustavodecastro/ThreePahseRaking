@@ -1,4 +1,4 @@
-# ThreePahseRaking
+# Three Phase Analysis
 This R code implements a generalized raking and multiple imputation approaches to be applied in 3-phase studies.
 
 There are 2 files:
